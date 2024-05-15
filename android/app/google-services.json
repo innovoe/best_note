@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5500525258",
+    "project_id": "best-note-505bb",
+    "storage_bucket": "best-note-505bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5500525258:android:c69656cbd142fe8c17b233",
+        "android_client_info": {
+          "package_name": "com.innovoe.best_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5500525258-7likfbqgaa0cppj8lf5rebgkem42ant0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovoe.best_note",
+            "certificate_hash": "79634839e2fb2813181bfdc8a56f036c564c7e28"
+          }
+        },
+        {
+          "client_id": "5500525258-09hq005m2gqvg373cm6frdiv0ebrv1jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_x_2Im00ms_4p3Okrbb9nuBUYihgL4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5500525258-09hq005m2gqvg373cm6frdiv0ebrv1jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
